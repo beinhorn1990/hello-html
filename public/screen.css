@@ -4,9 +4,72 @@
 
 html {
   height: 100%;
+  color: black;
+  background-color: white;
+  border: 1px solid white;
+  font-family: cursive;
+  font-style: italic;
 }
 
 body {
-  margin: 0;
+  margin: 100;
   min-height: 100%;
+  color: black;
+  background-color: white;
+  font-family: cursive;
+  font-style: italic;
 }
+
+nav {
+  padding-left: 15px;
+  font-family: cursive;
+  font-style: italic;
+}
+
+h1 {
+  margin: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  color: black;
+  background-color: white;
+  border: 6px solid black;
+  text-align: center;
+  font-family: Noto sans-serif;
+  font-size: 64px;
+  font-weight: bold;
+}
+
+p {
+  color: black;
+  padding-left: 17px;
+}
+
+img {
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 1px;
+  border: 20px solid black;
+}
+
+figcaption {
+  font-size: 10px;
+  padding-left: 17px;
+}
+
+footer {
+  margin-top: 50px;
+  background-color: blue;
+  color: white;
+  border: 10px black;
+  text-align: center;
+}
+
+a {
+  color: white;
+  font-weight: bold;
+  font-family: cursive;
+  font-style: italic;
+}
+
